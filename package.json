@@ -4,6 +4,7 @@
   "description": "LI-CLOUD_Weather_Web_App_Backend",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
